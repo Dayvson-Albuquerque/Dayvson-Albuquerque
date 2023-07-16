@@ -8,7 +8,7 @@
   <p align="center">
     Sou Desenvolvedor Junior e estou sempre a procura me desenvolver profissionalmente no ramo.
   </p>
-  </div>
+  
 
 <div align="center"> 
    <a href="https://github.com/Dayvson-Albuquerque">
