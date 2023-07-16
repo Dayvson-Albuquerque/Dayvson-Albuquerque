@@ -1,7 +1,9 @@
-<h1 align="center"> 
- Bem-vindo(a)!
- <a href="[https://www.linkedin.com/in/edududuribeiro/](https://www.linkedin.com/in/dayvson-albuquerque-ferreira-492b76244/)"> eu sou o Dayvson 😃️</a>
-</h1>
+<div>
+  
+ <h1 align="center">
+    Oi Tudo bem? Eu sou o 
+    <a href="https://www.linkedin.com/in/edududuribeiro/">Eduardo Ribeiro 😃️</a>
+  </h1>
 
 <div align="center"> 
    <a href="https://github.com/Dayvson-Albuquerque">
