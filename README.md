@@ -1,9 +1,14 @@
 <div>
   
  <h1 align="center">
-    Oi Tudo bem? Eu sou o 
-    <a href="https://www.linkedin.com/in/edududuribeiro/">Eduardo Ribeiro 😃️</a>
+    Seja bem vindo!  Eu sou o 
+    <a href="https://www.linkedin.com/in/dayvson-albuquerque-ferreira-492b76244/">Dayvson Albuquerque 😃</a>
   </h1>
+  
+  <p align="center">
+    Sou Desenvolvedor Junior e estou sempre a procura me me desenvolver profissionalmente no ramo.
+  </p>
+  </div>
 
 <div align="center"> 
    <a href="https://github.com/Dayvson-Albuquerque">
