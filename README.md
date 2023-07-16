@@ -1,6 +1,6 @@
 <h1 align="center"> 
  Bem-vindo(a)!
- <a href="https://instagram.fjpa7-1.fna.fbcdn.net/v/t51.2885-19/311820961_1239478150117873_5710100912338324069_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.fjpa7-1.fna.fbcdn.net&_nc_cat=101&_nc_ohc=wt1mT4mZkpoAX8q9tj6&edm=AFDWGO4BAAAA&ccb=7-5&oh=00_AfC6aS0lli-7QiTWQSqeSFNPyRpPJNIWdbwHYZ4sC8687g&oe=64B8D8FB&_nc_sid=7b9ede" </a>
+ <a href="[https://www.linkedin.com/in/edududuribeiro/](https://www.linkedin.com/in/dayvson-albuquerque-ferreira-492b76244/)"> eu sou o Dayvson 😃️</a>
 </h1>
 
 <div align="center"> 
