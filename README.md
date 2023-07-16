@@ -1,5 +1,6 @@
-<div align="center"> 
- ## Bem-vindo(a) ao perfil do Dayvson Albuquerque! 😁
+<h1 align="center"> 
+ Bem-vindo(a) ao perfil do Dayvson Albuquerque! 😁
+</h1>
 
 <div align="center"> 
    <a href="https://github.com/Dayvson-Albuquerque">
