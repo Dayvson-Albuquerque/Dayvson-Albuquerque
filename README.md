@@ -1,13 +1,19 @@
-
+<div>
   
- <h1 align="center">
-    Seja bem vindo!  Eu sou o 
-    <a href="https://www.linkedin.com/in/dayvson-albuquerque-ferreira-492b76244/">Dayvson Albuquerque 😃</a>
+  <h1 align="center">
+    Oi, seja bem vindo! Eu sou o 
+    <a href="https://www.linkedin.com/in/dayvson-albuquerque-ferreira-492b76244/">Dayvson 😃️</a>
   </h1>
   
   <p align="center">
-    Sou Desenvolvedor Junior e estou sempre a procura me desenvolver profissionalmente no ramo.
+    Sou Desenvolvedor Junior e estou sempre a procura de desenvolver-me profissionalmente na area!
+   </p>
+  
+  <p align="center">
+    obrigado por visitar este perfil, tua contribuição será muito bem vinda, vlw mesmo! 😉️
   </p>
+  
+</div>
   
 
 <div align="center"> 
