@@ -6,7 +6,7 @@
   </h1>
   
   <p align="center">
-    Sou Desenvolvedor Junior e estou sempre a procura de desenvolver-me profissionalmente.
+    Sou Desenvolvedor Junior e estou sempre a procura de me desenvolver profissionalmente.
   </p> 
 </div>
 
