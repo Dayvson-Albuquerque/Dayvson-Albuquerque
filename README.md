@@ -1,8 +1,8 @@
 <div>
   
   <h1 align="center">
-    Oi Tudo bem? Eu sou o 
-    <a href="https://www.linkedin.com/in/dayvson-albuquerque-ferreira-492b76244/">Dayvson😃️</a>
+    Desenvolvedor
+    <a href="https://www.alura.com.br/artigos/full-stack">Fullstack</a>
   </h1>
   
   <p align="center">
