@@ -32,7 +32,7 @@
 
 <div align="center">
 
-  ![Snake animation](https://github.com/Dayvson-Albuquerque/Dayvson-Albuquerque/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation]https://github.com/Dayvson-Albuquerque/Dayvson-Albuquerque/blob/output/github-contribution-grid-snake.svg
   
 </div>
 
