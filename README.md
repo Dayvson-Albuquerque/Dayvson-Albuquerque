@@ -53,5 +53,5 @@
 </div>
 
 <div align="center">
-  <p> I:heart: Code</p>
+  <p> I :heart: Code</p>
 </div>
