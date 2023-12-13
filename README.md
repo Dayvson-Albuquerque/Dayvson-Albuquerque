@@ -36,7 +36,7 @@
   <img align="center" alt="Linux" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">
   <img align="center" alt="Windows" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg">
     <img align="center" alt="Android" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg">
-  <img align="center" alt="Aple" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/3/31/Apple_logo_white.svg"><br>
+  <img align="center" alt="Aple" height="30" width="27" src="https://upload.wikimedia.org/wikipedia/commons/3/31/Apple_logo_white.svg"><br>
   
   
   
