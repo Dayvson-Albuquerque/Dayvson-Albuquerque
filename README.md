@@ -29,8 +29,9 @@
    <img align="center" alt="Rasppyberry" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg">
   <img align="center" alt="bootstrap" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg">
   <img align="center" alt="Git" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
-  <img align="center" alt="GitHub" height="30" width="40" src="https://icon-library.com/images/github-icon-white/github-icon-white-6.jpg">
-  <img align="center" alt="Photoshop" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg"><br><br>
+  <img align="center" alt="GitHub" height="30" width="40" src="https://visualpharm.com/assets/720/Github-595b40b65ba036ed117d442f.svg">
+  <img align="center" alt="Photoshop" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg">
+  <img align="center" alt="Figma" height="30" width="40" src="https://cdn.iconscout.com/icon/free/png-512/free-figma-3628771-3030133.png?f=webp&w=256"><br><br>
   <img align="center" alt="Linux" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">
   <img align="center" alt="Windows" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg">
     <img align="center" alt="Android" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg">
