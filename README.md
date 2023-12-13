@@ -1,11 +1,11 @@
 <div>
   
   <h1 align="center">
-    Olá, meu nome é <b>Dayvson!</b>
+   Hello my name is <b>Dayvson!</b>
   </h1>
   
   <p align="center">
-    Sou Desenvolvedor fullstack e estou sempre a procura de me desenvolver profissionalmente.
+   I'm a fullstack developer and I'm always looking to develop professionally.
   </p> 
 </div>
 
@@ -53,5 +53,5 @@
 </div>
 
 <div align="center">
-  <p>Feito com :heart:</p>
+  <p> I:heart: Code</p>
 </div>
