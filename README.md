@@ -25,9 +25,9 @@
   <img align="center" alt="Mysql" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
    <img align="center" alt="PHP" height="35" width="50" src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg">
   <img align="center" alt="Jquery" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg">
+   <img align="center" alt="bootstrap" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg">
   <img align="center" alt="Arduino" height="35" width="50" src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg">
    <img align="center" alt="Rasppyberry" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg">
-  <img align="center" alt="bootstrap" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg">
   <img align="center" alt="Git" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
   <img align="center" alt="GitHub" height="40" width="50" src="https://visualpharm.com/assets/720/Github-595b40b65ba036ed117d442f.svg">
   <img align="center" alt="Figma" height="25" width="40" src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg">
